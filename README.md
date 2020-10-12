@@ -1,7 +1,7 @@
 #Happy
 
 <p align="center">
-  <img src="./.github/logo.png" />
+  <img src="./.github/Logo.png" />
 </p>
 
 <p align="center">

@@ -56,7 +56,7 @@ export default function Orphanage() {
             {
               orphanage.images.map((image, index) => {
                 return (
-                  <button type="button" key={image.id} className={activeImageIndex == index ? 'active' : ''} onClick={() => {
+                  <button type="button" key={image.id} className={activeImageIndex === index ? 'active' : ''} onClick={() => {
                     setActiveImageIndex(index)
                   }}>
                     <img src={image.url} alt={orphanage.name} />
@@ -101,7 +101,7 @@ export default function Orphanage() {
                 Segunda à Sexta <br />
                 {orphanage.opening_hours}
               </div>
-              {orphanage.open_on_weekends ?
+              {orphanage.open_on_weekends  ?
                 (
                   <div className="open-on-weekends">
                     <FiInfo size={32} color="#39CC83" />

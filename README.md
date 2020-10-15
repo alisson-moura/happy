@@ -7,6 +7,7 @@
 </p>
    
 <br/>
+
 ## 💻 Projeto
 
 O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜 
@@ -21,13 +22,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [React Native](https://reactnative.dev/)
 
 <br/>
-## 🦸 Autor
+
+##🦸 Autor
 
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/48321754?s=460&u=9faab799c661b3f1227c25e0233a2f30b699218a&v=4" width="100px;" alt=""/><br />
 <b>Alisson Moura 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alisson-mo-moura/) </b>
 
 <br/>
-## 📝 Licença
+
+##📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 

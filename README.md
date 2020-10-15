@@ -1,5 +1,3 @@
-#Happy
-
 <p align="center">
   <img src="./.github/Logo.png" />
 </p>
@@ -14,13 +12,12 @@ O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
 
-## Tech
-- [NodeJs](https://nodejs.org/en/) - Build the server
-  - [SQLite3](https://www.sqlite.org) - DB Connector
-  - [Express](https://expressjs.com/) - Router of the Application
-- [ReactJs](https://reactjs.org) - A JavaScript library for building user interfaces
-- [React Native](https://reactnative.dev) - Native Development
-  - [Expo](https://expo.io) - Deploy and quickly iterate on native Android, iOS, and web apps
+## :rocket: Tecnologias Utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+- [ReactJS](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
 ## 🦸 Autor
 

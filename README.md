@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- Plataforma para auxiliar e organizar visitas em orfanatos. 
+ <b>Plataforma para auxiliar e organizar visitas em orfanatos.<b> 
 </p>
 
 ## 💻 Projeto
